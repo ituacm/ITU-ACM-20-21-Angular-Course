@@ -24,7 +24,7 @@ The goal of that course is give some basic informations about Angular JS that yo
 
 |  #Date |  #Topic  | #Description  |
 | :------------: | :------------: | :------------: |
-| 1.Hafta | Gerekli ortamların kurulması, ilk  projenin başlatılması ve kalsör yapısının anlatılması  | Node.js, Angular CLI ve VS Code kurulumu |
+| 1.Hafta | Gerekli ortamların kurulması, ilk  projenin başlatılması ve klasör yapısının anlatılması  | Node.js, Angular CLI ve VS Code kurulumu |
 | 2.Hafta | Veri tiplerinin ve componentlerin anlatılması |  Var, let, const, array vb. ve header, footer vb.  |
 | 3.Hafta | Service kullanımı, input-output işlemleri, ng-if ve ng-for  | Service nedir, nasıl ve neden kullanılır?   |
 | 4.Hafta | Todo App projesine başlangıç. |  Yeni proje açılması; Jquery, Bootstrap ve Angular Material indirilmesi ve sayfa dizaynı |
