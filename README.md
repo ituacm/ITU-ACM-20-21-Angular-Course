@@ -1,54 +1,45 @@
+# ITU-ACM-2020-AngularJS-Course
 [![](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)
 
 ### Instructors
 
-**Your Name and Surname**
+Muhammed Salih YILDIZ
 
-*Computer Engineering #4 @I.T.U*
+Computer Engineering #3 @I.T.U
 
-[*LinkedIn*](https://www.linkedin.com/in/)
+[*LinkedIn*](https://www.linkedin.com/in/muhammed-salih-y%C4%B1ld%C4%B1z-b51991174/)
 
-**Your Name and Surname**
-
-*Computer Engineering #3 @I.T.U*
-
-[*LinkedIn*](https://www.linkedin.com/in/)
 
 
 ### Prerequisities
-1. Basic knowledge about any programming language.
-2. so on...
+1. Curiosity about programming.
+2. Being exciting to learn Angular.
+3. Knowledge about JavaScript.
+
 
 ### Goal
 
-goals about program...
+The goal of that course is give some basic informations about Angular JS that you can improve yourself after course. This course aims to make you ready to learn complicated things in Angular JS.
 
 ### Syllabus
 
 |  #Date |  #Topic  | #Description  |
 | :------------: | :------------: | :------------: |
-| 1 September 2019 | Basit javascript, React Native kurulumu ve react native eğitimi. | React Native kurulumunda yardım, basit seviyede ES6, ES7 anlatımı, React Native tarihçesi, çalışma prensibi ve basit giriş |
-| 1 September 2019  | React Native egitimine devam.  | React Native projelerinin genel hiyerarşisi, Componentler ve Kütüphaneler  |
-| 1 September 2019  |  Exchange Rate App baslangic.  | Projeye başlangıç. Kullanışlı Componentler ve API çağırmaları hakkında genel bilgiler  |
-| 1 September 2019  |  Exchange Rate App e navigation ekleme.  | React Navigation kütüphanesi hakkında genel bilgiler  |
-| 1 September 2019  |Exchange Rate App design.  | Component tasarımı hakkında genel bilgiler  |
-| 1 September 2019  |  React ve Flutter hakkinda kisa bilgiler. |  Play Store'a uygulama deploylama, Frontend için kullanılan React ve başka bir Cross-Platform olan Flutter hakkınfa kısa bilgiler |
+| 1.Hafta | Gerekli ortamların kurulması, ilk  projenin başlatılması ve kalsör yapısının anlatılması  | Node.js, Angular CLI ve VS Code kurulumu |
+| 2.Hafta | Veri tiplerinin ve componentlerin anlatılması |  Var, let, const, array vb. ve header, footer vb.  |
+| 3.Hafta | Service kullanımı, input-output işlemleri, ng-if ve ng-for  | Service nedir, nasıl ve neden kullanılır?   |
+| 4.Hafta | Todo App projesine başlangıç. |  Yeni proje açılması; Jquery, Bootstrap ve Angular Material indirilmesi ve sayfa dizaynı |
+| 5.Hafta | Angular Material Drag and Drop |  Drag and Drop sayfaya yerleştirilmesi ve iconların seçilmesi |
+| 6.Hafta | Locale Storage kullanımı | Locale Storage ile verilerin güncellenmesi ve kurs sonu. |
 
 
-<p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
 
-(Lectures will be in ITU Faculty of Chemical and Metallurgical Engineering classroom D205 at every Thursday 17.30)
 
-# Important Links
+<p align="center"><b>Lessons will be around 1 - 1:30 hours</b></p>
 
-You can add links here about your program...
 
-# Suggested Readings
 
-You can add readings here about your program...
 
-# Project
-Short project details. For more information visit the [Project file](/Project)
 
 
 <p align="center">
